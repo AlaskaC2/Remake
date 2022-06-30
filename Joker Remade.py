@@ -17,7 +17,7 @@ methods = """
 \033[35m║ \033[36m---- \033[32mMethods List! \033[36m--- \033[35m╚═════════╗
 \033[35m║ \033[93mgen3   \033[36m> \033[32mShows Gen3 Methods!     \033[35m║
 \033[35m║ \033[32mlayer4 \033[36m> \033[32mShows Layer 4 Methods!  \033[35m║
-\033[35m║ \033[32mprivate\033[36m> \033[32mShows VIP Methods!  \033[35m║
+\033[35m║ \033[32mprivate\033[36m> \033[32mShows VIP Methods!      \033[35m║
 \033[35m║ \033[32mraw    \033[36m> \033[32mShows Raw Methods!      \033[35m║
 \033[35m╚══════════════════════════════════╝
 """
