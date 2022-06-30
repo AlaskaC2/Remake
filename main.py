@@ -396,7 +396,7 @@ def main():
 				main()
 		elif sinput == "udprape":
 			try:
-				if running >= 1:
+				if running >= 100:
 					print("\033[97mYou have reached your concurrents limit and must wait for your cooldown period to end.")
 					main()
 				else:
