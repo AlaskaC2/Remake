@@ -1,5 +1,5 @@
-https://github.com/AlaskaC2/Jokerake
+https://github.com/AlaskaC2/Remake
 
-cd Joker
+cd Remake
 
-python3 Joker main.py
+python3 main.py
