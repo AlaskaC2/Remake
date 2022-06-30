@@ -1,4 +1,4 @@
-git clone https://github.com/AlaskaC2/Joker-C2-Remake
+https://github.com/AlaskaC2/Joker-Remake
 
 cd Joker-C2-Remake
 
